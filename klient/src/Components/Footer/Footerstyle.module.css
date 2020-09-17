@@ -1,0 +1,13 @@
+.global {
+    color: white;
+    background-color: #3f3f44;
+    font-size: 1rem;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.author{
+    padding-top: 1rem;
+}

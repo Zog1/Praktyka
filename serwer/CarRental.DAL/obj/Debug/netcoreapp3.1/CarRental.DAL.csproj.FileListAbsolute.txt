@@ -1,0 +1,10 @@
+C:\Users\kuche\zespol3-laczone-samochody\serwer\CarRental.DAL\bin\Debug\netcoreapp3.1\CarRental.DAL.deps.json
+C:\Users\kuche\zespol3-laczone-samochody\serwer\CarRental.DAL\bin\Debug\netcoreapp3.1\CarRental.DAL.runtimeconfig.json
+C:\Users\kuche\zespol3-laczone-samochody\serwer\CarRental.DAL\bin\Debug\netcoreapp3.1\CarRental.DAL.runtimeconfig.dev.json
+C:\Users\kuche\zespol3-laczone-samochody\serwer\CarRental.DAL\bin\Debug\netcoreapp3.1\CarRental.DAL.dll
+C:\Users\kuche\zespol3-laczone-samochody\serwer\CarRental.DAL\bin\Debug\netcoreapp3.1\CarRental.DAL.pdb
+C:\Users\kuche\zespol3-laczone-samochody\serwer\CarRental.DAL\obj\Debug\netcoreapp3.1\CarRental.DAL.csprojAssemblyReference.cache
+C:\Users\kuche\zespol3-laczone-samochody\serwer\CarRental.DAL\obj\Debug\netcoreapp3.1\CarRental.DAL.AssemblyInfoInputs.cache
+C:\Users\kuche\zespol3-laczone-samochody\serwer\CarRental.DAL\obj\Debug\netcoreapp3.1\CarRental.DAL.AssemblyInfo.cs
+C:\Users\kuche\zespol3-laczone-samochody\serwer\CarRental.DAL\obj\Debug\netcoreapp3.1\CarRental.DAL.dll
+C:\Users\kuche\zespol3-laczone-samochody\serwer\CarRental.DAL\obj\Debug\netcoreapp3.1\CarRental.DAL.pdb
